@@ -1,0 +1,6 @@
+﻿  main.cpp
+  Student.cpp
+D:\Code\课程平时成绩管理系统\Student.cpp(193,49): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Code\课程平时成绩管理系统\Student.cpp(348,6): warning C4101: “k”: 未引用的局部变量
+  正在生成代码...
+  课程平时成绩管理系统.vcxproj -> D:\Code\课程平时成绩管理系统\x64\Debug\课程平时成绩管理系统.exe
